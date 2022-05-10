@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İsmail </h1>
+<h1 align="center">Hi 👋, I'm İsmaill </h1>
 <h3 align="center">💻 I am a computer engineer.</h3>
 <h3 align="center">👀 I am interested in mobile programming</h3>
 <h3 align="center">💻 I'm making Android Kotlin software</h3>
