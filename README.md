@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İsmail. </h1>
+<h1 align="center">Hi 👋, I'm İsmail </h1>
 <h3 align="center">👀 I am interested in mobile programming</h3>
 <h3 align="center">💻 I'm making İOS swift software</h3>
 <h3 align="center">📫 you can contact me ismailackyurek@gmail.com</h3>
@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ismailacikyurek00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/ismailacikyurek00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
