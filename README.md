@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İsmail </h1>
+<h1 align="center">Hi 👋, I'm İsmail. </h1>
 <h3 align="center">👀 I am interested in mobile programming</h3>
 <h3 align="center">💻 I'm making İOS swift software</h3>
 <h3 align="center">📫 you can contact me ismailackyurek@gmail.com</h3>
