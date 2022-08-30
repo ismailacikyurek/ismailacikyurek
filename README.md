@@ -16,7 +16,6 @@
 <h3 align="center">💻 I'm making İOS swift software</h3>
 <h3 align="center">📫 you can contact me ismailackyurek@gmail.com</h3>
 
-<img src = 'https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif' width= 300 alt = 'Awesome Matrix Code' align='right'/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
