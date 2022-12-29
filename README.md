@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ismailacikyurek00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
-<a href="https://twitter.com/_ismail00" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ismail.acikyurek00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<a href="https://twitter.com/_ismail.00" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCc90fg2s0iEjUouNCAyr7ag" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/4052902?s=200&v=4" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 </p>
 
